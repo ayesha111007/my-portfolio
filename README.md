@@ -39,8 +39,8 @@ This is my personal portfolio website created using **HTML** and **CSS**. It sho
 AI & DS Engineering Student
 
 ## 📬 Contact
-- Email: your-email@example.com
-- GitHub: https://github.com/your-username
+- Email: siddiquaa001@gmail.com
+- GitHub: https://github.com/ayesha111007
 
 ---
 ⭐ Thank you for visiting my portfolio!
